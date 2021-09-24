@@ -1,9 +1,9 @@
 <p align="center"><img src="https://bookdown.org/BaktiSiregar/matematika-bisnis/images/logomatana.png" /></p>
 
 # Latihan Bersama 
- {{ Diskripsi Project }}
+-
 ### Screenshot
-{{ Letakan gambar aplikasi disini }}
+-
 
 ### Built With
 - no version
