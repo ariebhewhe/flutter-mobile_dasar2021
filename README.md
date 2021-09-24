@@ -6,26 +6,16 @@
 {{ Letakan gambar aplikasi disini }}
 
 ### Built With
-- {{ Komponen apa saja yang dikerjakan untuk membuat aplikasi }}
-
+- no version
 ### Created By
-- {{ Nama Kelompok Anda }}
-    - Halaman Login (2 poin)
-    - Fungsi Login (1 poin)
-    - Data Model (1 poin)
-- {{ Nama Kelompok Anda }}
-    - Halaman Pencarian (3 poin)
-    - Fungsi Pencarian (2 poin)
-- {{ Nama Kelompok Anda }}
-    - Design Pattern BLoC (3 poin)
-    - Fungsi REST API (2 poin)
-    - Fungsi CRUD SQLite (3 poin)
-- {{dst}}
+- all mahasiswa
 ---
 ### Mata Kuliah 
 COE-5109 Pemprograman Mobile. 
+
 ### Dosen
 Ary Budi Warsito, M.Kom
+
 ### Matana University!
 <img src="http://matanauniversity.ac.id/website_lama/images/footer/Logo_mu_foot.png" />
 - Visi 
